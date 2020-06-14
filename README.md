@@ -1,4 +1,5 @@
-# Job-Classification-
-Job Classification done using Techniques of NLP and ML.
+# Job-Classification
 
-Dataset used from Kaggle of Indeeed job posting.
+- Job Classification done using Techniques of NLP and ML.
+
+- Dataset used from Kaggle of Indeeed job posting.
